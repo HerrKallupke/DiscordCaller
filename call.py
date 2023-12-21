@@ -18,3 +18,4 @@ while True:
     pag.moveTo(call_deny_button)
     pag.click()
     time.sleep(1)
+    
